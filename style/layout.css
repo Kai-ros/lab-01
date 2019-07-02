@@ -1,0 +1,42 @@
+#screen-container {
+  margin: auto;
+}
+
+#sectionA {
+  float: left;
+}
+
+#sectionB {
+  float: left;
+}
+
+#c, #d {
+  float: left;
+}
+
+#e, #f, #g, #h {
+  float: right;
+}
+
+#sectionI {
+  float: right;
+}
+
+#sectionCD {
+  float: right;
+}
+
+#sectionEFGH {
+  float: right;
+}
+
+.boxes {
+  position: relative;
+  outline: 1px solid grey;
+}
+
+p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
